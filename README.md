@@ -35,6 +35,8 @@ This project aims to automate the management of client-server environments using
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/shubham-singh0109/AuthSync_2FA_UserManagement.git
+   ```
+   ```bash
    cd https://github.com/shubham-singh0109/AuthSync_2FA_UserManagement.git
    ```
 3. **Configure Ansible Inventory**:
