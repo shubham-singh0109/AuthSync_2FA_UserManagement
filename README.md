@@ -57,4 +57,4 @@ This project aims to automate the management of client-server environments using
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Contact
-For any queries, reach out to **Shubham Singh** at [Visit My Portfolio](https://shubham-singh0109.github.io/)
+For any queries, reach out to me at [Visit My Portfolio](https://shubham-singh0109.github.io/)
