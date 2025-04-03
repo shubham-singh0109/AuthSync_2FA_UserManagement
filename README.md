@@ -37,7 +37,7 @@ This project aims to automate the management of client-server environments using
    git clone https://github.com/shubham-singh0109/AuthSync_2FA_UserManagement.git
    ```
    ```bash
-   cd https://github.com/shubham-singh0109/AuthSync_2FA_UserManagement.git
+   cd AuthSync_2FA_UserManagement
    ```
 3. **Configure Ansible Inventory**:
    Edit the `inventory.ini` file to define your client-server setup.
